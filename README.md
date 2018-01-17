@@ -1,5 +1,5 @@
 # Accelero-Relay-Controller-
-Acceleration controlled Relay Board
+Labview Driver for Acceleration controlled Relay Board
 Long range wireless Accelrometer temp sensor can be found over here https://store.ncd.io/shop/
 
 the indutrial wireless relay board can be found over here
